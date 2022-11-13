@@ -1,0 +1,37 @@
+{
+  "logo": {
+    "text": "投资学习笔记",
+    "type": "link",
+    "path": "index.html"
+  },
+  "main": [
+    {
+      "text": "SWAGGER",
+      "type": "label"
+    },
+    {
+      "text": "UI",
+      "type": "link",
+      "path": "散户高手之乱谈－散户高手之三斧子半.html"
+    },
+    {
+      "text": "To HTML",
+      "type": "link",
+      "path": "swagger/to-html.html"
+    },
+    {
+      "text": "SUPPORT AND FEEDBACK",
+      "type": "label"
+    },
+    {
+      "text": "破壳Ai主站",
+      "type": "link",
+      "path": "https://pokeai.cn"
+    },
+    {
+      "text": "Raise an Issue on Github",
+      "type": "link",
+      "path": "https://github.bus.zalan.do/stargate/hexo-stargate-doc-theme-seed/issues/new"
+    }
+  ]
+}
